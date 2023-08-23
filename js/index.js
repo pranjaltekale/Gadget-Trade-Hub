@@ -1,4 +1,3 @@
-
 function toggleDarkTheme(){
     const bodyElement=document.getElementById('body');
     bodyElement.classList.remove('body-light');
